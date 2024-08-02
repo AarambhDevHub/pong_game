@@ -27,8 +27,8 @@ To build and run this project, you'll need to have the Rust programming language
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pong-game-rust.git
-   cd pong-game-rust
+   git clone https://github.com/SuryodayDevHub/pong_game.git
+   cd pong_game
 # Pong Game in Rust with ggez
 
 Welcome to the Pong game project! This repository contains the source code for a classic Pong game built using the Rust programming language and the ggez game library.
@@ -79,7 +79,7 @@ To run the game, use the following command:
 ## Project Structure
     
     ```bash
-    pong-game-rust/
+    pong_game/
     ├── Cargo.toml        # Project configuration and dependencies
     ├── src/
     │   └── main.rs       # Main game logic
