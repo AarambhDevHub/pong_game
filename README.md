@@ -29,37 +29,6 @@ To build and run this project, you'll need to have the Rust programming language
    ```bash
    git clone https://github.com/SuryodayDevHub/pong_game.git
    cd pong_game
-# Pong Game in Rust with ggez
-
-Welcome to the Pong game project! This repository contains the source code for a classic Pong game built using the Rust programming language and the ggez game library.
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Controls](#controls)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Overview
-This project implements a simple Pong game where you control a paddle to bounce a ball against an AI opponent. The game demonstrates basic 2D game development concepts, including rendering graphics, handling user input, and managing game state.
-
-## Features
-- Player and AI-controlled paddles
-- Ball movement and collision detection
-- Scoring system
-- Game over and restart functionality
-- Adjustable game speed for AI difficulty
-
-## Installation
-To build and run this project, you'll need to have the Rust programming language installed. You can install Rust using rustup.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pong-game-rust.git
-   cd pong-game-rust
 
 2. Install dependencies:
     This project uses the ggez library. You can install the required dependencies using Cargo:
