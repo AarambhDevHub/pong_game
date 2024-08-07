@@ -62,6 +62,11 @@ To run the game, use the following command:
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request.
 
+## Donations
+
+If you find this project useful and would like to support its continued development, you can make a donation via [Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub
+).
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
